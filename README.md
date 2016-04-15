@@ -1,0 +1,2 @@
+# thinkinginansible
+Thinking in Ansible
